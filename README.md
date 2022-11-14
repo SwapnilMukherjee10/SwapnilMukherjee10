@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @SwapnilMukherjee10
-- 🌱 I’m currently learning Java
+- 🌱 I’m an Android Developer
 - 💞️ I’m looking to collaborate on projects to increase my knowledge
 - 📫 You can reach me on swapnilmukherjee30@gmail.com
