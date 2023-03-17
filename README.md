@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/115386517/225841791-e6eb2fcf-6de1-45ec-a5e8-0c321f0af245.gif)
 <h1 align="center">Hi 👋, I'm Swapnil</h1>
-<h3 align="center">A passionate Android App Developer.</h3>
+<h3 align="center">A passionate Mobile App Developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/115386517/225837185-0c3da1db-4575-4af4-80ab-b828824868dc.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnilmukherjee10&label=Profile%20views&color=0e75b6&style=flat" alt="swapnilmukherjee10" /> </p>
